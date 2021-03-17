@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mybabysexy&show_icons=true&theme=vue)](https://www.linkedin.com/in/duc1607/)
+
+Looking at me on:
+- [Linkedin: duc1607](https://www.linkedin.com/in/duc1607/)
+- Gmail: iamduc1607@gmail.com
+
 <!--
 **mybabysexy/mybabysexy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
